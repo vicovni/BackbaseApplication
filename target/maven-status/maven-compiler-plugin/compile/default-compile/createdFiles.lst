@@ -1,0 +1,16 @@
+com\backbaseproject\api\model\openbank\Details.class
+com\backbaseproject\api\service\OpenBankServiceImpl.class
+com\backbaseproject\api\model\backbase\Transaction.class
+com\backbaseproject\api\model\openbank\ThisAccount.class
+com\backbaseproject\api\config\SpringFoxConfig.class
+com\backbaseproject\api\model\openbank\Transaction.class
+com\backbaseproject\api\router\ApiRestRouter.class
+com\backbaseproject\api\model\openbank\Metadata.class
+com\backbaseproject\api\model\openbank\OtherAccount.class
+com\backbaseproject\api\model\openbank\Bank.class
+com\backbaseproject\api\model\openbank\Value.class
+com\backbaseproject\api\model\openbank\NewBalance.class
+com\backbaseproject\api\service\OpenBankService.class
+com\backbaseproject\api\model\openbank\Holder.class
+com\backbaseproject\api\controller\BackbaseApplicationController.class
+com\backbaseproject\api\model\openbank\Transactions.class
